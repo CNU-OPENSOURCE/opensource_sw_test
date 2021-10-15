@@ -1,0 +1,7 @@
+- Kakao Cloud-based OLAP (KCLAP) 케이씨랩
+- Kakao Data Brewery (데이터 양조공장, KBrew 케이브루)
+- KExLAP (KAkao X oLAP) 킥스랩
+- KOLAP (Kakao OLAP) 콜랩
+- KOLAPS (Kakao OLAP As A Service) 컬랩스
+- Kakao Discovering OLAP Service (KaDLAP) 케이디랩
+- Kakao OLAP & Data Infrastructure Service KODIS (코디스)
